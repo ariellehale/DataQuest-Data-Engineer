@@ -90,9 +90,19 @@ Learn how to improve the performance of your code by optimizing CPU and I/O perf
 * Practice analyzing data in parallel
 
 ### Algorithms and Data Structures
+Learn about different data structures and how they can help speed up your data analysis. Learn how to improve performance on common tasks like searching and sorting.
 #### You will learn:
-*
-### 
+* Learn how the core, list-like data structures work
+* Understand the performance differences between these data structures
+* Learn the core sorting and search algorithms
+
+### Recursion and Trees
+Learn about recursion and how it applies to tree data structures. Learn how tree data structures are used to speed up processing of analysis tasks.
 #### You will learn:
-*
+* Explore how to use recursion to traverse tree data structures
+* Learn about the different types of tree data structures
+* Practice implementing different types of tree data structures from the ground up
+
 ### Projects
+* Guided Project: Practice Optimizing Dataframes and Processing in Chunks
+* Guided Project: Analyzing Wikipedia Pages
