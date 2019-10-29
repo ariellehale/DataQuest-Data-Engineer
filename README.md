@@ -11,8 +11,8 @@ Learn how to build data pipelines to work with large datasets.
 * How to handle larger data sets
 * Key computer science concepts like data structures, algorithms, and recursion
 
-## Step 1 Courses 
-### - [ ] Python Fundamentals
+## Step 1: Introduction to Python
+### Python Fundamentals
 * Learn about the fundamentals of Python programming in the context of data engineering and data science
 #### You will learn:
 * The fundamentals of programming in Python
@@ -20,21 +20,79 @@ Learn how to build data pipelines to work with large datasets.
 * How to build a portfolio project
 
 ### Python Intermediate
+Learn important tools for your Python data toolbox.
+#### You will learn:
+* Learn how to clean and analyze text data
+* Learn about object-oriented programming in Python
+* Learn how to work with dates and times
+
 ### Programming Concepts with Python
+Learn important tools for your Python data toolbox.
+#### You will learn:
+* Learn how data is represented under the hood
+* Learn about encodings
+* Learn how to work with text files
+* Learn how to optimize data usage
 
-## Step 2:
-### Courses
-* SQL Fundamentals
-* SQL Intermediate: Table Relations and Joins
+### Projects
+* Project: Learn and install Jupyter Notebook
+* Guided Project: Exploring Hacker News and Posts
 
-## Step 3:
-### Courses
-* Postgres for Data Engineers
-* Optimizing Postgress Databases
+## Step 2: Working with Data Sources
+### SQL Fundamentals
+Learn the basics of working with SQL databases.
+#### You will learn:
+* Learn how to work with databases using SQL
+* Learn how to explore and analyze data in SQL
+* Learn about the Python SQLite workflow
 
-## Step 4:
-### Courses
-* Processing Large Datasets in Pandas
-* Optimizing Code Performance on Large Datasets
-* Algorithms and Data Structures
+### SQL Intermediate: Table Relations and Joins
+Learn to work with multi-table databases
+#### You will learn:
+* Learn how to query data across multiple tables
+* Learn how to answer business questions using SQL
+* Learn about table relations and how to create and modify databases
+
+### Projects
+* Guided Project: Analyzing CIA Factbook Data using SQLite and Python
+* Guided Project: Answering Business Questions using SQL
+
+## Step 3: Production Databases
+### Postgres for Data Engineers
+Learn about the SQL database Postgres
+#### You will learn:
+* Learn why moving to Postgres helps you and your team share data more effectively
+* Learn how to create tables with Postgres from a CSV file
+* Practice implementing a databse using best practices in security and fast query speeds
+
+### Optimizing Postgress Databases
+Learn how to optimize your Postgres database.
+#### You will learn:
+* Learn how to debug Postgres queries and find bottlenecks
+* Learn the fundamentals of Postgres's internal tooling
+* How to use indexes to speed up Postgress querying
+
+### Project:
+* Project: PostgresSQL Installation
+
+## Step 4: Handling Large Data Sets in Python
+### Processing Large Datasets in Pandas
+Learn how to work with medium-sized datasets by optimizing your pandas workflow, processing data in batches, and augmenting pands with SQLite.
+#### You will learn:
+* Learn how to reduce the memory footprint of a pandas DataFrame
+* Explore how to process large DataFrames in chunks and using SQLite
+
+### Optimizing Code Performance on Large Datasets
+Learn how to improve the performance of your code by optimizing CPU and I/O performance. Learn how to parallelize your code for more performance.
+#### You will learn:
+* Understand how CPU and I/O bounds limited your code performance
+* Learn how multithreading can help you overcome these limits
+* Practice analyzing data in parallel
+
+### Algorithms and Data Structures
+#### You will learn:
 *
+### 
+#### You will learn:
+*
+### Projects
