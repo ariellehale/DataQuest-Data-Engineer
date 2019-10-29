@@ -12,7 +12,7 @@ Learn how to build data pipelines to work with large datasets.
 * Key computer science concepts like data structures, algorithms, and recursion
 
 ## Step 1 Courses 
-### Python Fundamentals
+### - [ ] Python Fundamentals
 * Learn about the fundamentals of Python programming in the context of data engineering and data science
 #### You will learn:
 * The fundamentals of programming in Python
