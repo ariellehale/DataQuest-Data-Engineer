@@ -107,7 +107,7 @@ Learn about recursion and how it applies to tree data structures. Learn how tree
 * Guided Project: Practice Optimizing Dataframes and Processing in Chunks
 * Guided Project: Analyzing Wikipedia Pages
 
-## Course 5: Data Pipelines
+## Step 5: Data Pipelines
 ### Building a Data Pipeline
 Learn how to build a Python data pipeline from scratch.
 #### You will learn:
